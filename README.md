@@ -1,2 +1,2 @@
-# PPM Express Quick Start v2
-Upload this folder to GitHub Pages. All assets are local and all resource links open in a new tab.
+# PPM Express Quick Start v3
+Upload the folder contents to GitHub Pages. All images are local.
