@@ -10,7 +10,7 @@ const LINKS = {
   // PPM Express essentials
   ppmOverviewVideo: "https://vimeo.com/685714660?fl=pl&fe=sh",
   ppmTaskManagementVideo: "https://vimeo.com/991507302?fl=pl&fe=sh",
-  ppmStartGuide: "https://help.ppm.express/89245-getting-started-with-ppm-express",
+  ppmStartGuide: "https://help.ppm.express/89245-getting-started-with-ppm-express/2660024-help-guide-for-ppm-express-enterprise-ultra-plan",
 
   // Three guide cards
   connectOngoingProjects: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/404-Page-Not-Found.aspx",
