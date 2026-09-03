@@ -16,14 +16,16 @@ const LINKS = {
   connectOngoingProjects: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/404-Page-Not-Found.aspx",
   ppsProjectModel: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/PPS---Bolidens-Project-Model.aspx",
   ppmReleaseNotes: "https://help.ppm.express/release-notes-ppm-express",
+  Zinkgruvan: "https://boliden.sharepoint.com/sites/INT_BolidenProjectPortfolio/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Zinkgruvan%20specific%20PPME.aspx",
+  RightLicenses: "https://boliden.sharepoint.com/sites/INT_BolidenProjectPortfolio/SitePages/Get-the-Right-Licenses.aspx",
 
   // Role-based onboarding
-  roleProjectManager: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Role-Based-Onboarding--Choose-Your-Role.aspx",
-  roleSteeringGroup: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Role-Based-Onboarding--Choose-Your-Role.aspx",
-  roleProjectMember: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Role-Based-Onboarding--Choose-Your-Role.aspx",
-  roleBenefitOwner: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Role-Based-Onboarding--Choose-Your-Role.aspx",
-  roleProjectOwner: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Role-Based-Onboarding--Choose-Your-Role.aspx",
-  rolePortfolioProgrammeManager: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Role-Based-Onboarding--Choose-Your-Role.aspx",
+  roleProjectManager: "https://boliden.sharepoint.com/sites/INT_BolidenProjectPortfolio/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Project-Manager-Onboarding-Start.aspx",
+  roleSteeringGroup: "https://boliden.sharepoint.com/sites/INT_BolidenProjectPortfolio/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Steering-Group-onboarding.aspx",
+  roleProjectMember: "https://boliden.sharepoint.com/sites/INT_BolidenProjectPortfolio/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Project%20member.aspx",
+  roleBenefitOwner: "https://boliden.sharepoint.com/sites/INT_BolidenProjectPortfolio/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Benefit%20owner.aspx",
+  roleProjectOwner: "https://boliden.sharepoint.com/sites/INT_BolidenProjectPortfolio/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Project%20Owner.aspx",
+  rolePortfolioProgrammeManager: "https://boliden.sharepoint.com/sites/INT_BolidenProjectPortfolio/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Portfolio%20and%20Programme%20manager.aspx",
   roleResourceOwner: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Role-Based-Onboarding--Choose-Your-Role.aspx",
 
   // Tool guides
