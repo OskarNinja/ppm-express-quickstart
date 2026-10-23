@@ -13,7 +13,7 @@ const LINKS = {
   ppmStartGuide: "https://help.ppm.express/89245-getting-started-with-ppm-express/2660024-help-guide-for-ppm-express-enterprise-ultra-plan",
 
   // Three guide cards
-  connectOngoingProjects: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/404-Page-Not-Found.aspx",
+  connectOngoingProjects: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/How%20to%20connect%20projects%20to%20PPME.aspx",
   ppsProjectModel: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/PPS---Bolidens-Project-Model.aspx",
   ppmReleaseNotes: "https://help.ppm.express/release-notes-ppm-express",
   Zinkgruvan: "https://boliden.sharepoint.com/sites/INT_BolidenProjectPortfolio/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/Zinkgruvan%20specific%20PPME.aspx",
