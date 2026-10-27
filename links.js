@@ -11,6 +11,7 @@ const LINKS = {
   ppmOverviewVideo: "https://vimeo.com/685714660?fl=pl&fe=sh",
   ppmTaskManagementVideo: "https://vimeo.com/991507302?fl=pl&fe=sh",
   ppmStartGuide: "https://help.ppm.express/89245-getting-started-with-ppm-express/2660024-help-guide-for-ppm-express-enterprise-ultra-plan",
+  ITStart: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/IT%20Projects%20-%20Start%20here!.aspx",
 
   // Three guide cards
   connectOngoingProjects: "https://boliden.sharepoint.com/sites/IntranetOnline-Editors-BolidenProjectPortfolio/SitePages/How%20to%20connect%20projects%20to%20PPME.aspx",
